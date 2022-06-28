@@ -1,2 +1,2 @@
-# Jogo Mario-Jumper
+# Mario-Jumper
  Jogo interativo utilizando HTML, CSS e JavaScript
